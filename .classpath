@@ -55,5 +55,6 @@
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium july/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-full-5.2.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium july/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-lite-5.2.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/HP/Documents/Selenium july/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
